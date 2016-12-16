@@ -10,15 +10,18 @@ Link e risorse utili per i corsi "Modern JS".
 - [Smashing Node.js: JavaScript Everywhere](https://www.amazon.com/Smashing-Node-js-JavaScript-Everywhere-Magazine/dp/1119962595) (ENG)
 - [Il piccolo libro di MongoDB](https://nicolaiarocci.com/il-piccolo-libro-di-mongodb-edizione-italiana/)
 
-### Articoli
+### Articoli/Documentazioni
 - [How it feels to learn JavaScript in 2016](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.rdypazsgs)
+- [Who said javascript was easy ?](https://hackernoon.com/who-said-javascript-easy-f4a1d5b399b8#.2vse647e5)
 - [Airbnb Javascript Styleguide](https://github.com/airbnb/javascript)
+- [WordPress REST API reference](https://developer.wordpress.org/rest-api/reference/)
 
 ### Software
 - [Electron](http://electron.atom.io/): piattaforma per la creazione di applicazioni desktop con Javascript.
 - [Postman](https://www.getpostman.com/): tool per testare API REST.
 - [SourceTree](https://www.sourcetreeapp.com/): GUI per la gestione di repository Git.
 - [Hyper](http://hyperterm.org/): interfaccia per terminale sviluppata con Electron.
+- [GitKraken](https://www.gitkraken.com/): GUI per la gestione di repository Git sviluppata con Electron.
 
 ### Video
 - [Learn Git](https://try.github.io/levels/1/challenges/1)
