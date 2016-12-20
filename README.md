@@ -11,6 +11,7 @@ Link e risorse utili per i corsi "Modern JS".
 - [Il piccolo libro di MongoDB](https://nicolaiarocci.com/il-piccolo-libro-di-mongodb-edizione-italiana/)
 
 ### Articoli/Documentazioni
+- [Learn Git](https://try.github.io/levels/1/challenges/1)
 - [How it feels to learn JavaScript in 2016](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.rdypazsgs)
 - [Who said javascript was easy ?](https://hackernoon.com/who-said-javascript-easy-f4a1d5b399b8#.2vse647e5)
 - [Airbnb Javascript Styleguide](https://github.com/airbnb/javascript)
@@ -24,5 +25,10 @@ Link e risorse utili per i corsi "Modern JS".
 - [GitKraken](https://www.gitkraken.com/): GUI per la gestione di repository Git sviluppata con Electron.
 
 ### Video
-- [Learn Git](https://try.github.io/levels/1/challenges/1)
 - [How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
+
+### Librerie
+- [Handlebars](http://handlebarsjs.com/): templating avanzato
+- [Moment](http://momentjs.com/): gestione date (formattazione, differenze, ecc)
+- [PageJS](https://visionmedia.github.io/page.js/): routing client side
+- [Masonry](http://masonry.desandro.com/): layout a blocchi
