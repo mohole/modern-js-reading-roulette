@@ -16,6 +16,10 @@ Link e risorse utili per i corsi "Modern JS".
 - [Who said javascript was easy ?](https://hackernoon.com/who-said-javascript-easy-f4a1d5b399b8#.2vse647e5)
 - [Airbnb Javascript Styleguide](https://github.com/airbnb/javascript)
 - [WordPress REST API reference](https://developer.wordpress.org/rest-api/reference/)
+- [Documentazione ufficiale di React](https://facebook.github.io/react/docs/hello-world.html)
+
+### Video
+- [How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
 
 ### Software
 - [Electron](http://electron.atom.io/): piattaforma per la creazione di applicazioni desktop con Javascript.
@@ -23,9 +27,7 @@ Link e risorse utili per i corsi "Modern JS".
 - [SourceTree](https://www.sourcetreeapp.com/): GUI per la gestione di repository Git.
 - [Hyper](http://hyperterm.org/): interfaccia per terminale sviluppata con Electron.
 - [GitKraken](https://www.gitkraken.com/): GUI per la gestione di repository Git sviluppata con Electron.
-
-### Video
-- [How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
+- [Now](https://zeit.co/now): instant deploy per applicazioni NodeJS o file statici (con piano free).
 
 ### Librerie
 - [Handlebars](http://handlebarsjs.com/): templating avanzato
