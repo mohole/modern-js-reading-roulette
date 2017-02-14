@@ -12,6 +12,7 @@ Link e risorse utili per i corsi "Modern JS".
 
 ### Articoli/Documentazioni
 - [Learn Git](https://try.github.io/levels/1/challenges/1)
+- [git - la guida tascabile](http://rogerdudler.github.io/git-guide/index.it.html)
 - [How it feels to learn JavaScript in 2016](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.rdypazsgs)
 - [Who said javascript was easy ?](https://hackernoon.com/who-said-javascript-easy-f4a1d5b399b8#.2vse647e5)
 - [Airbnb Javascript Styleguide](https://github.com/airbnb/javascript)
